@@ -6,8 +6,6 @@ namespace EspacioCalculadora
         private double dato;
 
         public double Resultado { get => dato; }
-        public int a = 10;
-        private int a = 4;
 
         public void Sumar(double termino)
         {
